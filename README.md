@@ -35,4 +35,4 @@ CSS: Para estilizar e deixar a página com uma aparência agradável.
 
 JavaScript: Para a lógica de adicionar, validar e sortear amigos de forma interativa.
 
-
+https://amigo-secreto-six-pi.vercel.app/
